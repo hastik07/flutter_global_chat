@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181116128005",
+    "project_id": "global-chat-app-93b34",
+    "storage_bucket": "global-chat-app-93b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181116128005:android:59c8241bd9f8ae59a9056c",
+        "android_client_info": {
+          "package_name": "com.hastik.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb50Iz3lyasG19zwaOSyPxdsXydeYoBjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
