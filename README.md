@@ -1,16 +1,12 @@
-# globalchat
+# Chat App💬
 
 A new Flutter project.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+This how it looks like when you clone in your device 👇 
 
-A few resources to get you started if this is your first Flutter project:
+Note: In this repo, i use my firebase account so you get an error while running your emulator or simulator, Yet you can see the actual content!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/1aa15d71-6fa8-4010-af92-b7a4197a94ca
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
